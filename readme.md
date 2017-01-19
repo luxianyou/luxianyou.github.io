@@ -1,3 +1,3 @@
 ##My personal GitHub Pages
-1. Show own code
-2. Cummunicate with others
+1. Show my own code
+2. Communicate with others
