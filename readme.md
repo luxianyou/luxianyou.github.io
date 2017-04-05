@@ -1,5 +1,6 @@
-##My personal GitHub Pages
-1. Show my own code
-2. Communicate with others
-3. git learn one
-4. git learn two
+## 个人账号
+1. 总结自己的学习 
+2. 与其他人员交流
+3. 主要学习类容：java\python\mysql
+4. 构建自己的技术知识体系
+5. 把自己平常遇到的问题进行总结分析
